@@ -88,3 +88,36 @@
 
 # problems with single quote marks
 #message = 'One of Python's strenghts is its diverse community''
+
+# Numbers
+# Integers
+# 2+3
+# 3/2
+#
+# 3**2
+# 25**0.5
+#
+
+# floats
+# any number with a decimal is a float in Python. The decimal point can appear in any position in a number.
+0.1+0.1
+
+0.2 + 0.1
+
+3 * 0.1
+
+# The ratio of any two numbers is ALWAYS a float
+4/2
+
+#If integers and floats are combined, the result is always a float
+1 + 2.0
+
+# Multiple assignments at once
+x, y, z = 5, 6, 7
+print(x)
+print(y)
+print(z)
+
+# Constants
+# If you want to treat a variable as a constant, put the name in all capital letters
+MAX_CONNECTIONS = 5000
