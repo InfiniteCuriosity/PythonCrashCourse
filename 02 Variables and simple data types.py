@@ -121,3 +121,4 @@ print(z)
 # Constants
 # If you want to treat a variable as a constant, put the name in all capital letters
 MAX_CONNECTIONS = 5000
+import this
