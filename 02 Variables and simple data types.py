@@ -75,3 +75,16 @@
 # favorite_language = favorite_language.strip()
 # favorite_language
 
+# 2.4 Removing prefixes
+
+# nostarch_url = 'https://nostarch.com'
+# nostarch_url.removeprefix('https://')
+
+#3.5 Avoiding syntax errors with strings
+
+# Here's how to use single and double quotes correctly in Python
+# message = "One of Python's strngths is its diverse community"
+# print(message) # no problem with double quotes
+
+# problems with single quote marks
+#message = 'One of Python's strenghts is its diverse community''
